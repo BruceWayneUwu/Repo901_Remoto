@@ -1,0 +1,25 @@
+body{
+    font-family: Courier, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    background-color: #032541;
+}
+
+.card {
+    background-color: #032541;
+}
+
+#movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie_item {
+    margin: 1rem;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    max-width: 500px;
+}
