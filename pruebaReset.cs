@@ -1,1 +1,0 @@
-Esta es una prueba con el comando git reset HEAD para pasar del staging area
